@@ -1,3 +1,0 @@
-K-nearest neighbourts from https://jakevdp.github.io/PythonDataScienceHandbook/02.08-sorting.html
-gradient descent
-normal eq
