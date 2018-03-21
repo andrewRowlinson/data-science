@@ -12,4 +12,4 @@ desktop.ini
 */.ipynb_checkpoints/*
 
 # ignore plans
-CONTENT PLAN.txt
+*PLAN.txt
