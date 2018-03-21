@@ -1,0 +1,11 @@
+styles (https://jakevdp.github.io/PythonDataScienceHandbook/04.11-settings-and-stylesheets.html) and seaborn
+Bascis - tick, labels, legends, saving, colors/ dash, title, use ax.set to set at once
+Subplots - normal/ different box size (https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)/ adjusting space around subplots 
+Annotations and drawing on subplot (https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html)
+Types of charts - line, bar, histogran/density (not different), scatter, scatter with points sized like bubbles, violin plot, error bars (https://jakevdp.github.io/PythonDataScienceHandbook/04.03-errorbars.html), contour plots, heat maps, 2d histogram/ densities
+3d plots (https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
+plotting on maps (https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html)
+XKCD plots
+Text plots of name (https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html)
+
+Resources: https://github.com/wesm/pydata-book/blob/2nd-edition/ch09.ipynb

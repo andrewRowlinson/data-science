@@ -1,0 +1,4 @@
+Football project - stuff vizualising F24 data heatmaps and interactive championship manager 2002 style
+Recipe project
+Some kaggle competitions datasets
+Dice - pigs
