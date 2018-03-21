@@ -10,3 +10,6 @@ desktop.ini
 # ignore jupyter notebook checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# ignore plans
+CONTENT PLAN.txt
